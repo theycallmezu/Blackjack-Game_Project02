@@ -5,11 +5,3 @@
 # Project-02-Blackjack-Game
 > Basic Blackjack Game
 
-
-## Requirements [Completed]
-1. Save number to a variable in code
-2. When app loads, do calculations and display the results
-3. Round numbers to 3 decimal places
-
-## Bonus [Completed]
-Add an input for the user to change the number and automatically recalculate values when it changes.
