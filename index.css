@@ -93,12 +93,13 @@ p {
     font-size: 20px;
     font-family: 'Press Start 2P', cursive;
     padding: 25px;
-    margin: 20 auto;
+    margin: 5 auto;
     border-radius: 7px;
     cursor: pointer;
+    width:300px;
     
     
-  }
+}
 
   /*
 border: 3px solid green; 
